@@ -4,6 +4,8 @@ Created by **Gabriel Chiazor Unomah**.
 
 I built ScholarFlow Pro while applying for scholarships and graduate programmes. Each portal asked for my degree, GPA and referee contacts again. This extension lets you save those details once, see which fields match on the current page, and choose what to fill.
 
+![ScholarFlow Pro launch poster showing a saved student profile filling an application form](assets/scholarflow-launch.webp)
+
 ## Install in Chrome or Edge
 
 1. On GitHub, choose **Code → Download ZIP** and extract the archive.
