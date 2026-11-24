@@ -1,0 +1,16 @@
+{
+  "manifest_version": 3,
+  "name": "ScholarFlow Pro \u2014 Application Assistant",
+  "version": "2.0.0",
+  "description": "Fill known scholarship application fields from your private profile.",
+  "permissions": [
+    "storage",
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "options_page": "profile.html",
+  "author": "Gabriel Chiazor Unomah"
+}
